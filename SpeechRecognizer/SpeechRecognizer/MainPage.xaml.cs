@@ -26,6 +26,8 @@ namespace SpeechRecognizer
         public MainPage()
         {
             this.InitializeComponent();
+
+            double testVar = 12;
         }
     }
 }
